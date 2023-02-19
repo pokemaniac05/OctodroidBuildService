@@ -10,3 +10,5 @@ Go to [releases page](https://github.com/pokemaniac05/OctodroidBuildService/rele
 
 ## Notes
 This project isn't affiliated in any way with official Octodroid developers or with GitHub. The rights of Octodroid belong to [Azwan Adli](https://github.com/slapperwan) and those of Github belong to Microsoft. This is an unofficial way to get a rolling-release approach for Octodroid.
+
+In order to make this project work, secret files are used to manage Github login system and allowing login using an unofficial app. Only @pokemaniac05 - in quality of project maintainer - has access to those files and no one is authorized to fork this repo or reverse engineer the apks in releases page in order to access secret codes necessary to build app. If you want to get access to these files and contribute to the project, please contact me.
